@@ -24,4 +24,9 @@ explains all you need you know to join the Python developers. If you are
 interested in contributring then we especially recommend that you read
 https://docs.python.org/devguide/#contributing.
 
-Thanks for taking time to visit the Python repository.
+Thanks for taking time to visit the Python repository, and for yout interest in Python.
+
+-----------------------------------------------------------------------
+
+This file has been added to assist during the Mercurial-to-Github transition period,
+and will be replaced by the traditional README file when the transition is complete.
