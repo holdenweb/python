@@ -13,18 +13,18 @@ pull requests, but the time spent doing that would really be better spent develo
 Python language!
 
 This site is currently a mirror of Python's official repository, which lives
-at https://hg.python.org/, updated daily as a service to those who are already using
+at https://hg.python.org/cpython, updated daily as a service to those who are already using
 Github and find it a more convenient distribution channel.
 
 ## Yes, Contributions Are Welcome
 
 The official Python source code repository is currently implemented on Mercurial.
 The Python Developers' Guide is at https://docs.python.org/devguide/, and it
-explains all you need you know to join the Python developers. If you are
-interested in contributring then we especially recommend that you read
+explains all you need to know to join the Python developers. If you are
+interested in contributing then we especially recommend that you read
 https://docs.python.org/devguide/#contributing.
 
-Thanks for taking time to visit the Python repository, and for yout interest in Python.
+Thanks for taking time to visit the Python repository, and for your interest in Python.
 
 -----------------------------------------------------------------------
 
